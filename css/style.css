@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container-fluid {
+    margin-bottom: 30px;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.dropdown {
+    bottom: 0px;
+    top: 6px;
+}
+.navbar-nav.mr-auto .nav-item a {
+    text-align: center;
+    color: #000000;
+    font-size: 1rem;
+    top: 0px;
+    bottom: 0px;
+
+}
